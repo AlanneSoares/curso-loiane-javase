@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/Aula13/src/br/com/curso/java/basico/exercicio11/Main.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4fb7e62-778a-4e9a-bd99-ee2e83cba884" name="Default Changelist" comment="" />
+    <list default="true" id="a4fb7e62-778a-4e9a-bd99-ee2e83cba884" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +24,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Aula13/src/br/com/curso/java/basico/exercicio11/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="70">
               <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
@@ -171,12 +173,12 @@
       <workItem from="1554605224885" duration="4193000" />
       <workItem from="1554737753347" duration="544000" />
       <workItem from="1554829676929" duration="7145000" />
-      <workItem from="1554837505404" duration="10079000" />
+      <workItem from="1554837505404" duration="12197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22578000" />
+    <option name="totallyTimeSpent" value="24696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -205,7 +207,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.57610476" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
@@ -264,7 +266,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Aula13/src/br/com/curso/java/basico/exercicio11/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="70">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
         </state>
       </provider>
